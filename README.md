@@ -5,4 +5,4 @@ These are the steps that have been taken:
 2. Check the null values and coalesce them with related values
 3. Break down some columns to indivitual ones to be more useful 
 4. Update missing values in columns to avoid multiple in-vain values
-5. Removing unused columns
+5. Remove unused columns
